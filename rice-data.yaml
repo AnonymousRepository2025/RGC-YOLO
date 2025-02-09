@@ -1,0 +1,9 @@
+# dataset path
+path: C:/Users/zhang/Desktop/RGC-YOLO-V4-master
+train: ./dataset/images/train  
+val: ./dataset/images/val 
+test: ./dataset/images/test 
+
+nc: 10 # number of classes
+
+names: ['blasst', 'normal', 'blight', 'brown-Spot', 'Dead Heart', 'Downy', 'False', 'Sheath Blight', 'Streak', 'Tungro']   # class names
