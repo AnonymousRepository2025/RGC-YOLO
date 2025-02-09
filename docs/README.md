@@ -8,11 +8,13 @@ License
 ----
 The source code is free for research and education use only. Any comercial use should get formal permission first.  <br>  <br>
 <br>
-<a href="https://www.ultralytics.com/" target="_blank"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="320" alt="Ultralytics logo"></a>
 
 #####
 Rice Pest and Disease Dataset
-The dataset is currently stored on our school’s internal computer equipment. Due to institutional access restrictions (and the ongoing holiday period), we are temporarily unable to upload it publicly. We will return to campus before February 25, 2025, and upload the dataset to our GitHub repository as soon as we regain access.
+The dataset is currently stored on our school’s internal computer equipment. Due to institutional access restrictions (and the ongoing holiday period), we are temporarily unable to upload it publicly. We will return to campus before February 25, 2025, and upload the dataset to our GitHub repository as soon as we regain access
+<a href="https://www.ultralytics.com/" target="_blank"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="320" alt="Ultralytics logo"></a>
+
+.
 ####
 # 📚 Ultralytics Docs
 
